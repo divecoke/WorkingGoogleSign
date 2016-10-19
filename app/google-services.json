@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "199960531793",
+    "firebase_url": "https://project-5366937911139332163.firebaseio.com",
+    "project_id": "project-5366937911139332163",
+    "storage_bucket": "project-5366937911139332163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199960531793:android:cf8fd6942f20d01d",
+        "android_client_info": {
+          "package_name": "com.howdoilooktoday.googlesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199960531793-jers1m3eegnnp7u12d85unh8qobitk5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.howdoilooktoday.googlesign",
+            "certificate_hash": "CA3F0D5BCE0B1B02B512CAE9A90F12AF26FC29FC"
+          }
+        },
+        {
+          "client_id": "199960531793-btotja6orf7agrekb3no5au27jhavc5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQq-icq9_SbzvTL2W7AN-Vnu_1e5Bapc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199960531793-btotja6orf7agrekb3no5au27jhavc5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
